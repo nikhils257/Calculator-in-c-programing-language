@@ -18,4 +18,4 @@ It performs basic arithmetic operations like **Addition, Subtraction, Multiplica
 
 1. Clone this repository or download the file.  
    ```bash
-   git clone https://github.com//calculator-c.git
+   git clone https://github.com/nikhils257/Calculator-in-c-programing-language.git
