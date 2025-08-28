@@ -1,2 +1,22 @@
 # Calculator-in-c-programing-language
-This is my first code and repository. I am studying diploma in information technology Frist year. I just tried and tried to reach this to you.
+# Simple Calculator in C
+
+This is a simple calculator program written in **C language** as part of my **First Year Diploma in Information Technology** practice.  
+It performs basic arithmetic operations like **Addition, Subtraction, Multiplication, and Division**.
+
+---
+
+## 📌 Features
+- Addition of two numbers  
+- Subtraction of two numbers  
+- Multiplication of two numbers  
+- Division of two numbers (with zero check)  
+- User-friendly input and output  
+
+---
+
+## 🖥️ How to Run
+
+1. Clone this repository or download the file.  
+   ```bash
+   git clone https://github.com/nikhil S257/calculator-c.git
